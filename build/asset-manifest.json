@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87f4565b.css",
+    "main.js": "/static/js/main.e5a71465.js",
+    "static/media/lightining.png": "/static/media/lightining.3503a307e703e460c6ce.png",
+    "static/media/cvgomeznov.pdf": "/static/media/cvgomeznov.361df62b5fb7644f4df0.pdf",
+    "static/media/rain.png": "/static/media/rain.402ac1f303abf9762d5a.png",
+    "static/media/CVmcgdev.png": "/static/media/CVmcgdev.24e8785570136c56623d.png",
+    "static/media/en.png": "/static/media/en.e2c8b149b53ad9f0a8b5.png",
+    "static/media/4KparaPC11.jpg": "/static/media/4KparaPC11.6b0038896dc23c85329f.jpg",
+    "static/media/CV.jpeg": "/static/media/CV.b1b16bff2f844b065f12.jpeg",
+    "static/media/es.png": "/static/media/es.abe4eaa7ffc11c14df95.png",
+    "static/media/express.png": "/static/media/express.c0b238e71c4c65ba1f92.png",
+    "static/media/sequelize.png": "/static/media/sequelize.bf8d2ab084d8cd4a97b9.png",
+    "static/media/node.png": "/static/media/node.0dce88531584b2383214.png",
+    "static/media/postgressql.png": "/static/media/postgressql.6c5d698f195dac2fe5af.png",
+    "static/media/redux.png": "/static/media/redux.d66127642e6f6ce0988a.png",
+    "static/media/react.png": "/static/media/react.f7656012e58533610a4a.png",
+    "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/js.png": "/static/media/js.ae1483be5ab77850c967.png",
+    "static/media/html.png": "/static/media/html.ff3cf75e3b7cbb4ea77c.png",
+    "index.html": "/index.html",
+    "main.87f4565b.css.map": "/static/css/main.87f4565b.css.map",
+    "main.e5a71465.js.map": "/static/js/main.e5a71465.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87f4565b.css",
+    "static/js/main.e5a71465.js"
+  ]
+}
